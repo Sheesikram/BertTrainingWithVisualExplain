@@ -50,7 +50,7 @@ BertTrainingWithVisualExplain addresses this issue by incorporating visualizatio
 3. **Download BERT model** (Optional): By default, the project uses the pre-trained BERT model from Hugging Face’s `transformers` library. You can also specify a custom model in the configuration file.
 
 ---
-
+ 
 ## Usage
 
 ### 1. Training a BERT Model
